@@ -20,6 +20,7 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
+  text-align: justify;
 }
 
 body {
@@ -127,7 +128,7 @@ a:hover strong {
 }
 
 strong, b {
-  color: #3d4449;
+  color: #7c8992;
   font-weight: var(--font-weight-bold);
 }
 
@@ -140,7 +141,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color: #7c8992;
   font-family: var(--heading-font);
   font-weight: var(--headings-weight);
   line-height: 1.5;
@@ -1526,7 +1527,7 @@ form {
 }
 
 label {
-  color: #3d4449;
+  color: #7c8992;
   display: block;
   font-size: 0.9em;
   font-weight: var(--font-weight-bold);
@@ -1590,7 +1591,7 @@ select {
   text-overflow: ellipsis;
 }
 select option {
-  color: #3d4449;
+  color: #7c8992;
   background: #ffffff;
 }
 select:focus::-ms-value {
@@ -1670,8 +1671,8 @@ input[type=radio] + label:before {
 }
 input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
-  background: #3d4449;
-  border-color: #3d4449;
+  background: #7c8992;
+  border-color: #7c8992;
   color: #ffffff;
   content: "\f00c";
 }
@@ -2013,7 +2014,7 @@ table td {
   padding: 0.75em 0.75em;
 }
 table th {
-  color: #3d4449;
+  color: #7c8992;
   font-size: 0.9em;
   font-weight: var(--font-weight-bold);
   padding: 0 0.75em 0.75em 0.75em;
@@ -2591,7 +2592,7 @@ sup {
   text-transform: uppercase;
 }
 .post__inner {
-  max-width: 760px;
+  max-width: 80%;
   margin: 0 auto;
 }
 .post__inner.center {
@@ -3080,7 +3081,7 @@ hr,
 hr::before,
 .separator::before {
   content: "***";
-  color: #3d4449;
+  color: #7c8992;
   font-size: 1.2em;
   font-weight: var(--font-weight-bold);
   letter-spacing: 0.5em;
@@ -3089,7 +3090,7 @@ hr::before,
 
 .separator--dot::before {
   content: "*";
-  color: #3d4449;
+  color: #7c8992;
   font-size: 1.2em;
   font-weight: var(--font-weight-bold);
   letter-spacing: 0.5em;
@@ -3558,7 +3559,7 @@ hr::before,
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  color: #3d4449;
+  color: #7c8992;
   font-family: var(--menu-font);
   font-weight: var(--font-weight-normal);
   letter-spacing: 0.075em;
