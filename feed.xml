@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Isekai Legends Whitepaper</title>
-    <link href="https://whitepaper.isekailegends.com/feed.xml" rel="self" />
-    <link href="https://whitepaper.isekailegends.com" />
+    <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
+    <link href="https://docs.isekailegends.com" />
     <updated>2023-04-06T20:59:04-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
-    <id>https://whitepaper.isekailegends.com</id>
+    <id>https://docs.isekailegends.com</id>
 
     <entry>
         <title>Isekai Legends Documention</title>
         <author>
             <name>Isekai Dev</name>
         </author>
-        <link href="https://whitepaper.isekailegends.com/isekai-legends-documention.html"/>
-        <id>https://whitepaper.isekailegends.com/isekai-legends-documention.html</id>
+        <link href="https://docs.isekailegends.com/isekai-legends-documention.html"/>
+        <id>https://docs.isekailegends.com/isekai-legends-documention.html</id>
 
         <updated>2023-04-06T20:59:04-03:00</updated>
             <summary>
