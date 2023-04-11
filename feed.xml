@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-06T20:59:04-03:00</updated>
+    <updated>2023-04-11T17:52:10-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,44 +17,19 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documention.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documention.html</id>
 
-        <updated>2023-04-06T20:59:04-03:00</updated>
+        <updated>2023-04-11T17:52:10-03:00</updated>
             <summary>
                 <![CDATA[
-                    Table of Contents Introduction Tokenomics $ISEKAI Token Protocol Income Waifus Unique Waifus Seasonal Waifus Adventurers’ Guilds Order of Legendaries Seasonal&hellip;
+                    Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 id="table-of-contents">Table of Contents</h1>
-<ol>
-<li><a href="#introduction">Introduction</a></li>
-<li><a href="#tokenomics">Tokenomics</a><ol>
-<li><a href="#isekai-token">$ISEKAI Token</a></li>
-<li><a href="#protocol-income">Protocol Income</a></li>
-</ol>
-</li>
-<li><a href="#waifus">Waifus</a><ol>
-<li><a href="#unique-waifus">Unique Waifus</a></li>
-<li><a href="#seasonal-waifus">Seasonal Waifus</a></li>
-</ol>
-</li>
-<li><a href="#adventurers-guilds">Adventurers’ Guilds</a><ol>
-<li><a href="#order-of-legendaries">Order of Legendaries</a></li>
-<li><a href="#seasonal-enclave">Seasonal Enclave</a></li>
-</ol>
-</li>
-<li><a href="#reward-distribution-mechanism">Reward Distribution Mechanism</a></li>
-<li><a href="#referral-system">Referral System</a></li>
-<li><a href="#smart-contract-documentation">Smart Contract Documentation</a><ol>
-<li><a href="#erc1155-staking-contract">ERC1155 Staking Contract</a></li>
-</ol>
-</li>
-</ol>
-<h1 id="1-introduction">1. Introduction</h1>
+                <h1 id="introduction">Introduction</h1>
 <p>Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its tokenomics, waifus, adventurers’ guilds, reward distribution mechanisms, and referral system. You’ll also find information on the ERC1155 staking contract (<em>Adventure Party</em>) that powers the Isekai Legends platform.</p>
 <p>Isekai Legends is a decentralized platform that offers an engaging and rewarding experience for users who love anime and NFTs. The platform features two types of waifus (Unique and Seasonal) that users can collect and use to participate in various activities, such as staking their waifus’ power levels to earn $ISEKAI tokens in the Adventurers’ Guilds.</p>
 <p>Get ready to embark on a thrilling journey into the world of Isekai Legends!</p>
-<h1 id="2-tokenomics">2. Tokenomics</h1>
+<h1 id="tokenomics">Tokenomics</h1>
 <h5 id="100-69t-allocated-for-liquidity">100% (69T) allocated for liquidity</h5>
 <h5 id="0-dev-allocation">0% dev allocation</h5>
 <p>The Isekai token ($ISEKAI) serves as the core currency in the Isekai Legends ecosystem.</p>
@@ -64,7 +39,7 @@
 <p>To maintain a sustainable reward system, the mint proceeds from both unique and seasonal waifus are programmatically set to autobuy $ISEKAI tokens. These tokens are then used to fund the next round of rewards for the Order of Legendaries and Seasonal Enclave guilds, creating a robust and self-sustaining economy within the Isekai Legends ecosystem.</p>
 <p>By integrating the Isekai token into various aspects of the dApp, Isekai Legends ensures that its in-game currency plays a pivotal role in facilitating player engagement and supporting the overall growth of the platform.</p>
 <h2 id="tax-mechanism">Tax Mechanism</h2>
-<p>A adjustable tax mechanism is in place for $ISEKAI token transactions, with the exception of EOA (Externally Owned Account) to EOA transfers. This allows users to transfer funds to their cold wallets without being penalized for doing so. This tax is utilized to fund the farming rewards for each season, ensuring a continuous flow of rewards. The <em>$ISEKAI tax is 10%</em> at protocol launch. 99% of this tax is combined with the mint proceeds from the previous season to fund the next season of rewards.</p>
+<p>A adjustable tax mechanism is in place for $ISEKAI token transactions, with the exception of sells to our QuickSwap LP. This tax is utilized to fund the farming rewards for each season, ensuring a continuous flow of rewards. The <em>$ISEKAI tax is 10%</em> at protocol launch. This tax is combined with the mint proceeds from the previous season to fund the next season of rewards.</p>
 <h2 id="token-utilities">Token Utilities</h2>
 <p>$ISEKAI tokens have multiple utilities within the platform:</p>
 <ul>
@@ -76,6 +51,22 @@
 <li><strong>Minting:</strong> In future seasons, users will be able mint Seasonal Waifus using $ISEKAI tokens directly once the initial volatility subsides.</li>
 </ul>
 <p>By offering multiple utilities and a capped supply, the $ISEKAI token is designed to provide long-term value and utility within the Isekai Legends ecosystem.</p>
+<h1 id="waifus">Waifus</h1>
+<p>In Isekai Legends, Waifus are the collectible NFTs representing characters that players can obtain and manage. There are two types of Waifus: Unique Waifus and Seasonal Waifus. Each type of Waifu has its own characteristics and functions within the ecosystem.</p>
+<h2 id="unique-waifus">Unique Waifus</h2>
+<p>Unique Waifus are rare and limited in supply, giving them higher collectible value. These Waifus are designed with special attributes and can be staked in the Order of Legendaries Adventurers’ Guild to earn a portion of the protocol income as rewards. Unique Waifus can only be obtained through limited public mints, special events or challenges. The supply at protocol genesis is capped at 20 Unique Waifus but more may be released over time. </p>
+<p>Unique Waifus have a higher farming power compared to Seasonal Waifus due to their rarity. They possess a farming power multiplier of 1,500x for Epic Waifus and 3,000x for Legendary Waifus. This increased farming power allows players who own Unique Waifus to earn more rewards when staking them in the Order of Legendaries Adventurers’ Guild.</p>
+<h2 id="seasonal-waifus">Seasonal Waifus</h2>
+<p>Seasonal Waifus are minted during specific seasons and are part of a gacha-style mystery box system. Players can mint Seasonal Waifus using $MATIC currency, and is planned to switch to $ISEKAI in further seasons. Seasonal Waifus can be staked in the Seasonal Enclave Adventurers’ Guild to earn a portion of the protocol income as rewards.</p>
+<p>Seasonal Waifus have different farming power multipliers based on their rarity:</p>
+<ul>
+<li><strong>Common:</strong> 1x farming power</li>
+<li><strong>Uncommon:</strong> 5x farming power</li>
+<li><strong>Rare:</strong> 20x farming power</li>
+<li><strong>Epic:</strong> 100x farming power</li>
+<li><strong>Legendary:</strong> 1,500x farming power</li>
+</ul>
+<p>The higher the rarity of a Seasonal Waifu, the greater the farming power multiplier, allowing players to earn more rewards when staking them in the Seasonal Enclave Adventurers’ Guild.</p>
 
             ]]>
         </content>
