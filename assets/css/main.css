@@ -100,7 +100,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-re
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  color: #b7bec4;
   font-family: var(--body-font);
   font-size: 13pt;
   font-weight: var(--font-weight-normal);
