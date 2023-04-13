@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T23:15:29-03:00</updated>
+    <updated>2023-04-12T23:18:20-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T23:15:29-03:00</updated>
+        <updated>2023-04-12T23:18:20-03:00</updated>
             <summary>
                 <![CDATA[
                     Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
@@ -116,7 +116,7 @@
 <p>The <strong>Crystal Treasure Finder</strong> is a unique mechanism that allows players to stake their LP tokens and earn rewards in the form of <strong>Crystals</strong>. These rewards are minted by the LP rewarder, creating an incentive for players to contribute liquidity to the platform.</p>
 <h3>Spending Crystals on Seasonal Waifus</h3>
 <p>Crystals can only be spent on minting seasonal waifus at the Garden of Seasons. Players who use Crystals to mint seasonal waifus will enjoy <strong>better rarity drop rates</strong> compared to those who mint using MATIC. This advantage encourages participation in the LP farming system and creates a more vibrant ecosystem within Isekai Legends.</p>
-<p class="msg msg--highlight"><strong>$CRYSTALS do not drop COMMON waifus, only UNCOMMON and above!<br><br>However,<br><br>$CRYSTALS cannot be exchanged, transfered, sold, nor bought. They are minted by the LP farm and burned when minting Isekai NFTs.</strong></p>
+<p class="msg msg--highlight"><strong>$CRYSTALS do not drop COMMON waifus, only UNCOMMON and above!<br><br></strong>However,<strong><br><br></strong>$CRYSTALS cannot be <strong>exchanged, transfered, sold, nor bought</strong>. They are <strong>minted</strong> by the LP farm and <strong>burned</strong> when minting Isekai Legends NFTs.</p>
 <h3>Crystals Decay Mechanism</h3>
 <p>In the mystical world of Isekai Legends, Crystals possess a unique property that <em>causes them to decay over time</em>. At the end of each season, the Crystals' potency diminishes by a factor of 1/2 (one half), representing their ephemeral nature.<br><br>This decay mechanism encourages players to spend their Crystals on seasonal waifus during the current season rather than hoarding them for future seasons. Although players are free to accumulate Crystals, they will find it more advantageous to utilize them within the same season they are earned.</p>
 </div>
