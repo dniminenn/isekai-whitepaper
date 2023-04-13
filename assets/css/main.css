@@ -114,7 +114,7 @@ body, input, select, textarea {
 
 a {
   -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+  transition: color .2s ease-in-out,border-bottom-color .2s ease-in-out, background-color .4s ease-in-out;
   border-bottom: dotted 1px;
   color: var(--color);
   text-decoration: none;
@@ -3574,13 +3574,15 @@ hr::before,
   display: block;
   font-size: 0.9em;
   padding: 0.625em 0;
+  padding-left: 1em;
 }
 #menu ul a:hover, #menu ul span:hover {
   color: var(--color);
+  background-color: blueviolet;
 }
 #menu ul a.opener, #menu ul span.opener {
-  -webkit-transition: color 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out;
+  -webkit-transition: color 0.2s ease-in-out, background-color .4s ease-in-out;
+  transition: color 0.2s ease-in-out, background-color .4s ease-in-out;
   text-decoration: none;
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   position: relative;
@@ -3598,9 +3600,9 @@ hr::before,
   font-weight: 900;
 }
 #menu ul a.opener:before, #menu ul span.opener:before {
-  -webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
-  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  -webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out, background-color .4s ease-in-out;
+  transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out, background-color .4s ease-in-out;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out, background-color .4s ease-in-out;
   transition: color 0.2s ease-in-out, transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
   color: #9fa3a6;
   content: "\f078";

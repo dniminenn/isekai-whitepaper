@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-13T00:31:22-03:00</updated>
+    <updated>2023-04-13T04:14:30-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-13T00:31:22-03:00</updated>
+        <updated>2023-04-13T04:14:30-03:00</updated>
             <summary>
                 <![CDATA[
                     Use the expandable site menu to navigate to the relevant section. Welcome to the Isekai Legends documentation! This guide will&hellip;
@@ -34,7 +34,7 @@
 <hr>
 <h2 id="tokenomics">Tokenomics</h2>
 <p>The Isekai token ($ISEKAI) serves as the core currency in the Isekai Legends ecosystem.</p>
-<p class="msg msg--highlight "><span style="color: #2dc26b;">    100% (69T) allocated for liquidity<br><br>    10% tax with exclusion for selling and creating LP<br><br>     0% dev allocation</span></p>
+<p class="msg msg--highlight "><span style="color: #2dc26b;">100% (69T) allocated for liquidity<br>10% tax with exclusion for selling and creating LP<br>0% dev allocation</span></p>
 <div style="margin-left: 2em;">
 <h3 id="tax-mechanism">Funding Rewards</h3>
 <p class="align-left"><span style="color: #2dc26b;">The tax cannot be raised by the team, the contract ownership has been renounced.</span></p>
@@ -127,7 +127,7 @@
 <p>The <strong>Seasonal Enclave</strong> is a vibrant and ever-changing community tailored for players with Seasonal Waifus. As players stake their Party Power Levels comprised of Seasonal Waifus, they can earn a share of the protocol income allocated for the Seasonal Enclave. The Enclave offers a dynamic and engaging experience, with rewards and opportunities evolving with each season.</p>
 </div>
 <hr>
-<h2>The Crystals Token</h2>
+<h2 id="crystals">The Crystals Token</h2>
 <p>The <strong>Crystals</strong> token is a special utility token exclusive to the Isekai Legends ecosystem, designed specifically for rewarding <strong>Liquidity Providers</strong> (LPs). Crystals are <strong>untradable and untransferable</strong>, ensuring that their value is tied directly to the Isekai Legends platform.</p>
 <div style="margin-left: 2em;">
 <h3>Rewarding LP Farmers</h3>
