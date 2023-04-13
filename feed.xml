@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T22:52:18-03:00</updated>
+    <updated>2023-04-12T23:00:19-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T22:52:18-03:00</updated>
+        <updated>2023-04-12T23:00:19-03:00</updated>
             <summary>
                 <![CDATA[
                     Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
@@ -28,6 +28,7 @@
                 <h2 id="introduction">Introduction</h2>
 <p>Welcome to the <strong>Isekai Legends</strong> documentation! This guide will provide you with an overview of the project, including its tokenomics, waifus, adventurers’ guilds, reward distribution mechanisms, and referral system.</p>
 <p>Isekai Legends is a decentralized platform that offers an engaging and rewarding experience for users who love anime and NFTs. The platform features two types of waifus (Unique and Seasonal) that users can collect and use to participate in various activities, such as staking their waifus’ power levels to earn $ISEKAI tokens in the Adventurers’ Guilds.</p>
+<p>Every season ushers <span class="hljs-keyword">in</span> a <span class="hljs-built_in">new</span> era <span class="hljs-keyword">of</span> farming rewards <span class="hljs-keyword">with</span> an assortment <span class="hljs-keyword">of</span> farmable Seasonal Waifus. <span class="hljs-keyword">Each</span> season offers fresh <span class="hljs-built_in">and</span> captivating art, engaging lore, <span class="hljs-built_in">and</span> powerful abilities <span class="hljs-keyword">for</span> the Waifus, providing players <span class="hljs-keyword">with</span> an evolving <span class="hljs-built_in">and</span> immersive experience. The seasonal nature <span class="hljs-keyword">of</span> the protocol keeps it dynamic <span class="hljs-built_in">and</span> exciting, <span class="hljs-keyword">as</span> players eagerly anticipate the unique opportunities <span class="hljs-built_in">and</span> challenges that come <span class="hljs-keyword">with</span> <span class="hljs-keyword">each</span> <span class="hljs-built_in">new</span> season.</p>
 <p>Get ready to embark on a thrilling journey into the world of Isekai Legends!</p>
 <hr>
 <h2 id="tokenomics">Tokenomics</h2>
@@ -58,13 +59,15 @@
 <h2 id="waifus">Waifus</h2>
 <p>In Isekai Legends, Waifus are the central characters that players collect, treasure, and utilize for various in-game activities. Waifus are divided into two main categories: Unique Waifus and Seasonal Waifus. Each category offers distinct features and rarities that cater to different preferences and play styles. Before staking, Waifus must be wrapped into a party, forming their combined “<strong>Party Power Levels</strong>.”</p>
 <div style="margin-left: 2em;">
-<h3 id="unique-waifus">Unique Waifus</h3>
+<h3 id="unique-waifus">Sanctum of Legends</h3>
 <p><strong>Unique Waifus</strong> are rare and highly sought-after characters with a limited supply. They boast a strong collectible value and are prized possessions among players. Unique Waifus are available in two rarities, each with their own farming power multiplier:</p>
 <ul>
 <li><strong>Epic:</strong> Exceptionally powerful and rare characters with a 1500x farming power multiplier.</li>
 <li><strong>Legendary:</strong> The pinnacle of rarity and power in the Isekai Legends universe with a 3000x farming power multiplier.</li>
 </ul>
-<h3 id="seasonal-waifus">Seasonal Waifus</h3>
+<h3>Periodic Release of New Unique Waifus</h3>
+<p>As the Isekai Legends universe expands, new Unique Waifus will be periodically introduced to the <strong>Sanctum of Legends</strong>. These releases offer players the chance to discover and collect new, exclusive waifus with unique abilities and designs, adding to the excitement and sense of discovery within.</p>
+<h3 id="seasonal-waifus">Garden of Seasons</h3>
 <p><strong>Seasonal Waifus </strong>are characters minted during specific seasons through a gacha-style mystery box system. The price for minting Seasonal Waifus is 10 MATIC, which may change in subsequent seasons. Seasonal Waifus may also be minted for 1 CRYSTAL. Seasonal Waifus offer a variety of rarities, allowing players to collect and treasure a diverse range of characters. Each rarity has its own farming power multiplier:</p>
 <ul>
 <li><strong>Common:</strong> 1x farming power multiplier.</li>
