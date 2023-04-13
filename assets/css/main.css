@@ -128,7 +128,7 @@ a:hover strong {
 }
 
 strong, b {
-  color: #7c8992;
+  color: #daa1ff;
   font-weight: var(--font-weight-bold);
 }
 
@@ -141,7 +141,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #7c8992;
+  color: #lightgrey;
   font-family: var(--heading-font);
   font-weight: var(--headings-weight);
   line-height: 1.5;
