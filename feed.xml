@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T23:00:19-03:00</updated>
+    <updated>2023-04-12T23:10:03-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T23:00:19-03:00</updated>
+        <updated>2023-04-12T23:10:03-03:00</updated>
             <summary>
                 <![CDATA[
                     Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
@@ -77,6 +77,26 @@
 <li><strong>Legendary:</strong> 1500x farming power multiplier.</li>
 </ul>
 <p>The higher the rarity of a Seasonal Waifu, the greater the farming power multiplier, allowing players to earn more rewards when staking them in the Seasonal Enclave Adventurers’ Guild.</p>
+</div>
+<hr>
+<h2 id="forming-party">Forming a Party - Arcane Party Assembler</h2>
+<p>In the world of Isekai Legends, the <strong>Arcane Party Assembler</strong> plays a crucial role in uniting adventurers and their waifus for exciting quests and thrilling battles. This mystical process allows players to transform their Unique and Seasonal Waifus into <strong>wrapped waifus</strong>, called <strong>Power Level</strong> facilitating a more streamlined and efficient distribution of rewards across different rarities and multipliers.</p>
+<div style="margin-left: 2em;">
+<h3>Harnessing the Power of Arcane Magic</h3>
+<p>Through the use of ancient arcane magic, the Arcane Party Assembler converts Unique and Seasonal Waifus separately into wrapped waifus, imbuing them with a unified energy form. This mystical transformation allows for a more balanced distribution of rewards, taking into account the various rarities and multipliers of the waifus.</p>
+<h3>Party Power Level</h3>
+<p>The number of wrapped waifus obtained from the Arcane Party Assembler reflects their rarity multiplier and establishes the power level of each party. For instance, a party with 3000 wrapped waifu tokens possesses a power level of 3000. This power level acts as a gauge of a party's prowess and potential within the Isekai Legends universe.</p>
+<h3>Embarking on Exciting Adventures</h3>
+<p>By utilizing the Arcane Party Assembler, players can prepare their waifu collection for the thrilling quests and challenges that lie ahead. As they explore the enchanting world of Isekai Legends, their parties of wrapped waifus stand ready to face epic battles, overcome obstacles, and earn valuable rewards.</p>
+<h3>Future Potential for Expired Parties</h3>
+<p>The Arcane Party Assembler also holds the promise of future functionality for parties that have completed their seasonal adventures. These expired parties may unlock special benefits, such as:</p>
+<ul>
+<li>Exclusive NFT collectibles representing their past achievements and adventures.</li>
+<li>Eligibility for bounties, granting players access to unique in-game content or additional rewards.</li>
+<li>Entry into a lottery, providing a chance to win rare waifus or other valuable prizes.</li>
+</ul>
+<p>While the specifics of these features are still in development, they aim to enhance the Isekai Legends experience and reward players for their continued dedication and engagement.</p>
+<p>The Arcane Party Assembler provides an essential tool for players as they navigate the vast world of Isekai Legends, ensuring a smooth and engaging experience for every adventurer. The arcane magic that powers the Assembler not only streamlines reward distribution but also adds a touch of mystical allure to the overall journey.</p>
 </div>
 <hr>
 <h2 id="adventurers-guilds">Adventurers’ Guilds</h2>
