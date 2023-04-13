@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T23:12:40-03:00</updated>
+    <updated>2023-04-12T23:15:29-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T23:12:40-03:00</updated>
+        <updated>2023-04-12T23:15:29-03:00</updated>
             <summary>
                 <![CDATA[
                     Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
@@ -27,8 +27,8 @@
             <![CDATA[
                 <h2 id="introduction">Introduction</h2>
 <p>Welcome to the <strong>Isekai Legends</strong> documentation! This guide will provide you with an overview of the project, including its tokenomics, waifus, adventurers’ guilds, reward distribution mechanisms, and referral system.</p>
-<p>Isekai Legends is a decentralized platform that offers an engaging and rewarding experience for users who love anime and NFTs. The platform features two types of waifus (Unique and Seasonal) that users can collect and use to participate in various activities, such as staking their waifus’ power levels to earn $ISEKAI tokens in the Adventurers’ Guilds.</p>
-<p>Every season ushers <span class="hljs-keyword">in</span> a <span class="hljs-built_in">new</span> era <span class="hljs-keyword">of</span> farming rewards <span class="hljs-keyword">with</span> an assortment <span class="hljs-keyword">of</span> farmable Seasonal Waifus. <span class="hljs-keyword">Each</span> season offers fresh <span class="hljs-built_in">and</span> captivating art, engaging lore, <span class="hljs-built_in">and</span> powerful abilities <span class="hljs-keyword">for</span> the Waifus, providing players <span class="hljs-keyword">with</span> an evolving <span class="hljs-built_in">and</span> immersive experience. The seasonal nature <span class="hljs-keyword">of</span> the protocol keeps it dynamic <span class="hljs-built_in">and</span> exciting, <span class="hljs-keyword">as</span> players eagerly anticipate the unique opportunities <span class="hljs-built_in">and</span> challenges that come <span class="hljs-keyword">with</span> <span class="hljs-keyword">each</span> <span class="hljs-built_in">new</span> season.</p>
+<p>Isekai Legends is a decentralized platform that offers an engaging and rewarding experience for users who love anime and NFTs. In Isekai Legends, players can visit the <strong>Sanctum of Legends</strong> to mint powerful and rare unique waifus or explore the <strong>Garden of Seasons</strong> to discover enchanting seasonal waifus through a gacha-like experience. These waifus can be combined into formidable parties at the <strong>Arcane Party Assembler</strong>, which creates uniform farmable tokens based on their rarity and power.<br><br>Armed with their newly formed parties, players can join the <strong>Order of Legendaries</strong> and <strong>Seasonal Enclave</strong> guilds to participate in various farming activities and earn rewards in the form of the ERC20 token <strong>$ISEKAI</strong>. The Order of Legendaries caters to unique waifu parties, granting <em>perpetual rewards</em>, while the Seasonal Enclave offers <em>seasonal rewards</em> for seasonal waifu parties.</p>
+<p>Every season ushers <span class="hljs-keyword">in</span> a <span class="hljs-built_in">new</span> era <span class="hljs-keyword">of</span> farming rewards <span class="hljs-keyword">with</span> an assortment <span class="hljs-keyword">of</span> farmable Seasonal Waifus. <span class="hljs-keyword">Each</span> season offers fresh <span class="hljs-built_in">and</span> captivating art, engaging lore, <span class="hljs-built_in">and</span> powerful abilities <span class="hljs-keyword">for</span> the Waifus, providing players <span class="hljs-keyword">with</span> an evolving <span class="hljs-built_in">and</span> immersive experience. <em>The seasonal nature <span class="hljs-keyword">of</span> the protocol keeps it dynamic <span class="hljs-built_in">and</span> exciting</em>, <span class="hljs-keyword">as</span> players eagerly anticipate the unique opportunities <span class="hljs-built_in">and</span> challenges that come <span class="hljs-keyword">with</span> <span class="hljs-keyword">each</span> <span class="hljs-built_in">new</span> season.</p>
 <p>Get ready to embark on a thrilling journey into the world of Isekai Legends!</p>
 <hr>
 <h2 id="tokenomics">Tokenomics</h2>
