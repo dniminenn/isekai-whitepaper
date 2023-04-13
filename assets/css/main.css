@@ -2565,16 +2565,16 @@ sup {
 }
 
 .post {
-  padding: 5em 0;
+  padding: 2em 0;
 }
 @media screen and (max-width: 1280px) {
   .post {
-    padding: 4em 0;
+    padding: 2em 0;
   }
 }
 @media screen and (max-width: 736px) {
   .post {
-    padding: 3em 0;
+    padding: 2em 0;
   }
 }
 .post__header {
