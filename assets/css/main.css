@@ -3122,8 +3122,7 @@ hr::before,
 .msg--highlight {
   background-color: #282828;
   border-color: #daa1ff;
-  margin-left: 4em;
-  margin-right: 5em;
+  margin-left: 2em;
 }
 .msg--info {
   background: #F2F9FF;

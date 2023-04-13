@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T05:27:11-03:00</updated>
+    <updated>2023-04-12T22:52:18-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,41 +17,28 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T05:27:11-03:00</updated>
+        <updated>2023-04-12T22:52:18-03:00</updated>
             <summary>
                 <![CDATA[
-                    Contract Addresses $ISEKAI: 0x449460B019eC80787660E665AAe42b920A33764F SushiSwap LP 0x47130c5227e478C393288295fC4d975580bD9CDf Introduction Welcome to the Isekai Legends documentation! This guide will provide you with&hellip;
+                    Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Contract Addresses</h2>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 28.9586%;"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">$ISEKAI: </span></td>
-<td style="width: 71.0414%;"><code style="font-weight: var(--font-weight-normal);">0x449460B019eC80787660E665AAe42b920A33764F</code></td>
-</tr>
-<tr>
-<td style="width: 28.9586%;"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">SushiSwap LP</span></td>
-<td style="width: 71.0414%;"><code style="font-weight: var(--font-weight-normal);">0x47130c5227e478C393288295fC4d975580bD9CDf</code></td>
-</tr>
-</tbody>
-</table>
-<h2 id="introduction">Introduction</h2>
-<p>Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its tokenomics, waifus, adventurers’ guilds, reward distribution mechanisms, and referral system. You’ll also find information on the ERC1155 staking contract (<em>Adventure Party</em>) that powers the Isekai Legends platform.</p>
+                <h2 id="introduction">Introduction</h2>
+<p>Welcome to the <strong>Isekai Legends</strong> documentation! This guide will provide you with an overview of the project, including its tokenomics, waifus, adventurers’ guilds, reward distribution mechanisms, and referral system.</p>
 <p>Isekai Legends is a decentralized platform that offers an engaging and rewarding experience for users who love anime and NFTs. The platform features two types of waifus (Unique and Seasonal) that users can collect and use to participate in various activities, such as staking their waifus’ power levels to earn $ISEKAI tokens in the Adventurers’ Guilds.</p>
 <p>Get ready to embark on a thrilling journey into the world of Isekai Legends!</p>
 <hr>
 <h2 id="tokenomics">Tokenomics</h2>
-<p class="msg msg--highlight "><span style="color: #ffffff;"><strong>    100% (69T) allocated for liquidity<br></strong><strong>     0% dev allocation</strong></span></p>
+<p class="msg msg--highlight "><span style="color: #ffffff;"><strong>    100% (69T) allocated for liquidity<br><br></strong></span><span style="color: #ffffff;"><strong>     0% dev allocation</strong></span></p>
 <p>The Isekai token ($ISEKAI) serves as the core currency in the Isekai Legends ecosystem.</p>
 <div style="margin-left: 2em;">
 <h3>Funding Protocol Development</h3>
 <p>A small percentage (1%) of the tax collected from $ISEKAI token transactions is allocated to fund the ongoing development of the Isekai Legends protocol. This ensures that the dApp continues to evolve.</p>
 <h3><strong>Autobuy Isekai Token with Mint Proceeds</strong></h3>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">To maintain a sustainable reward system, the mint proceeds from both unique and seasonal waifus are programmatically set to autobuy $ISEKAI tokens. These tokens are then used to fund the next round of rewards for the Order of Legendaries and Seasonal Enclave guilds, creating a robust and self-sustaining economy within the Isekai Legends ecosystem.</span></p>
-<p>By integrating the Isekai token into various aspects of the dApp, Isekai Legends ensures that its in-game currency plays a pivotal role in facilitating player engagement and supporting the overall growth of the platform.</p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">To maintain a sustainable reward system, the mint proceeds from the Isekai ecosystem are programmatically set to autobuy $ISEKAI tokens. These tokens are then used to fund the next round of rewards for the Order of Legendaries and Seasonal Enclave guilds, creating a robust and self-sustaining economy within the Isekai Legends ecosystem.</span></p>
+<p>By integrating the Isekai token into various aspects of the dApp, Isekai Legends ensures that its currency plays a pivotal role in facilitating player engagement and supporting the overall growth of the platform.</p>
 <h3 id="tax-mechanism">Tax Mechanism</h3>
 <p>A adjustable tax mechanism is in place for $ISEKAI token transactions, with the exception of sells to our QuickSwap LP. This tax is utilized to fund the farming rewards for each season, ensuring a continuous flow of rewards. The <em>$ISEKAI tax is 10%</em> at protocol launch. This tax is combined with the mint proceeds from the previous season to fund the next season of rewards.</p>
 <h3 id="token-utilities">Token Utilities</h3>
@@ -69,16 +56,16 @@
 </div>
 <hr>
 <h2 id="waifus">Waifus</h2>
-<p>In Isekai Legends, Waifus are the central characters that players collect, treasure, and utilize for various in-game activities. Waifus are divided into two main categories: Unique Waifus and Seasonal Waifus. Each category offers distinct features and rarities that cater to different preferences and play styles. Before staking, Waifus must be wrapped into a party, forming their combined “Party Power Levels.”</p>
+<p>In Isekai Legends, Waifus are the central characters that players collect, treasure, and utilize for various in-game activities. Waifus are divided into two main categories: Unique Waifus and Seasonal Waifus. Each category offers distinct features and rarities that cater to different preferences and play styles. Before staking, Waifus must be wrapped into a party, forming their combined “<strong>Party Power Levels</strong>.”</p>
 <div style="margin-left: 2em;">
 <h3 id="unique-waifus">Unique Waifus</h3>
-<p>Unique Waifus are rare and highly sought-after characters with a limited supply. They boast a strong collectible value and are prized possessions among players. Unique Waifus are available in two rarities, each with their own farming power multiplier:</p>
+<p><strong>Unique Waifus</strong> are rare and highly sought-after characters with a limited supply. They boast a strong collectible value and are prized possessions among players. Unique Waifus are available in two rarities, each with their own farming power multiplier:</p>
 <ul>
 <li><strong>Epic:</strong> Exceptionally powerful and rare characters with a 1500x farming power multiplier.</li>
 <li><strong>Legendary:</strong> The pinnacle of rarity and power in the Isekai Legends universe with a 3000x farming power multiplier.</li>
 </ul>
 <h3 id="seasonal-waifus">Seasonal Waifus</h3>
-<p>Seasonal Waifus are characters minted during specific seasons through a gacha-style mystery box system. The price for minting Seasonal Waifus is 10 MATIC, which may change in subsequent seasons. Seasonal Waifus offer a variety of rarities, allowing players to collect and treasure a diverse range of characters. Each rarity has its own farming power multiplier:</p>
+<p><strong>Seasonal Waifus </strong>are characters minted during specific seasons through a gacha-style mystery box system. The price for minting Seasonal Waifus is 10 MATIC, which may change in subsequent seasons. Seasonal Waifus may also be minted for 1 CRYSTAL. Seasonal Waifus offer a variety of rarities, allowing players to collect and treasure a diverse range of characters. Each rarity has its own farming power multiplier:</p>
 <ul>
 <li><strong>Common:</strong> 1x farming power multiplier.</li>
 <li><strong>Uncommon:</strong> 5x farming power multiplier.</li>
@@ -97,6 +84,20 @@
 <h3 id="seasonal-enclave">Seasonal Enclave</h3>
 <p>The Seasonal Enclave is a vibrant and ever-changing community tailored for players with Seasonal Waifus. As players stake their Party Power Levels comprised of Seasonal Waifus, they can earn a share of the protocol income allocated for the Seasonal Enclave. The Enclave offers a dynamic and engaging experience, with rewards and opportunities evolving with each season.</p>
 </div>
+<hr>
+<h2>The Crystals Token</h2>
+<p>The Crystals token is a special utility token exclusive to the Isekai Legends ecosystem, designed specifically for rewarding Liquidity Providers (LPs). Crystals are <strong>untradable and untransferable</strong>, ensuring that their value is tied directly to the Isekai Legends platform.</p>
+<div style="margin-left: 2em;">
+<h3>Rewarding LP Farmers</h3>
+<p>The <strong>Crystal Treasure Finder</strong> is a unique mechanism that allows players to stake their LP tokens and earn rewards in the form of <strong>Crystals</strong>. These rewards are minted by the LP rewarder, creating an incentive for players to contribute liquidity to the platform.</p>
+<h3>Spending Crystals on Seasonal Waifus</h3>
+<p>Crystals can only be spent on minting seasonal waifus at the Garden of Seasons. Players who use Crystals to mint seasonal waifus will enjoy <strong>better rarity drop rates</strong> compared to those who mint using MATIC. This advantage encourages participation in the LP farming system and creates a more vibrant ecosystem within Isekai Legends.</p>
+<p class="msg msg--highlight"><strong>$CRYSTALS do not drop COMMON waifus, only UNCOMMON and above!<br><br>However,<br><br>$CRYSTALS cannot be exchanged, transfered, sold, nor bought. They are minted by the LP farm and burned when minting Isekai NFTs.</strong></p>
+<h3>Crystals Decay Mechanism</h3>
+<p>In the mystical world of Isekai Legends, Crystals possess a unique property that <em>causes them to decay over time</em>. At the end of each season, the Crystals' potency diminishes by a factor of 1/2 (one half), representing their ephemeral nature.<br><br>This decay mechanism encourages players to spend their Crystals on seasonal waifus during the current season rather than hoarding them for future seasons. Although players are free to accumulate Crystals, they will find it more advantageous to utilize them within the same season they are earned.</p>
+</div>
+<h2 id="contract-addresses">Contract Addresses</h2>
+<p>$ISEKAI<br><code style="font-weight: var(--font-weight-normal);">0x449460B019eC80787660E665AAe42b920A33764F</code><br>SushiSwap LP<br><code style="font-weight: var(--font-weight-normal);">0x449460B019eC80787660E665AAe42b920A33764F</code></p>
             ]]>
         </content>
     </entry>
