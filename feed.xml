@@ -3,7 +3,7 @@
     <title>Isekai Legends Whitepaper</title>
     <link href="https://docs.isekailegends.com/feed.xml" rel="self" />
     <link href="https://docs.isekailegends.com" />
-    <updated>2023-04-12T23:10:03-03:00</updated>
+    <updated>2023-04-12T23:12:40-03:00</updated>
     <author>
         <name>Isekai Dev</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://docs.isekailegends.com/isekai-legends-documentation.html"/>
         <id>https://docs.isekailegends.com/isekai-legends-documentation.html</id>
 
-        <updated>2023-04-12T23:10:03-03:00</updated>
+        <updated>2023-04-12T23:12:40-03:00</updated>
             <summary>
                 <![CDATA[
                     Introduction Welcome to the Isekai Legends documentation! This guide will provide you with an overview of the project, including its&hellip;
@@ -65,10 +65,11 @@
 <li><strong>Epic:</strong> Exceptionally powerful and rare characters with a 1500x farming power multiplier.</li>
 <li><strong>Legendary:</strong> The pinnacle of rarity and power in the Isekai Legends universe with a 3000x farming power multiplier.</li>
 </ul>
-<h3>Periodic Release of New Unique Waifus</h3>
-<p>As the Isekai Legends universe expands, new Unique Waifus will be periodically introduced to the <strong>Sanctum of Legends</strong>. These releases offer players the chance to discover and collect new, exclusive waifus with unique abilities and designs, adding to the excitement and sense of discovery within.</p>
+<p class="msg msg--highlight ">As the Isekai Legends universe expands, new Unique Waifus will be periodically introduced to the <strong>Sanctum of Legends</strong>. These releases offer players the chance to discover and collect new, exclusive waifus with unique abilities and designs, adding to the excitement and sense of discovery within.</p>
 <h3 id="seasonal-waifus">Garden of Seasons</h3>
-<p><strong>Seasonal Waifus </strong>are characters minted during specific seasons through a gacha-style mystery box system. The price for minting Seasonal Waifus is 10 MATIC, which may change in subsequent seasons. Seasonal Waifus may also be minted for 1 CRYSTAL. Seasonal Waifus offer a variety of rarities, allowing players to collect and treasure a diverse range of characters. Each rarity has its own farming power multiplier:</p>
+<p>The Garden of Seasons is a special area within the Isekai Legends universe where players can mint Seasonal Waifus. These waifus are a rotating collection of captivating characters with unique abilities, artwork, and stories. Each season brings a fresh array of waifus, offering players the excitement of discovering and collecting new and exclusive characters. Limited-Time Availability Seasonal Waifus are only available for a predetermined period, which corresponds to the duration of each season. Once a season ends, the associated waifus become unattainable, making them highly collectible and valuable to players who managed to obtain them during the season.</p>
+<p class="msg msg--highlight ">The price for minting Seasonal Waifus is 10 MATIC, which may change in subsequent seasons. Seasonal Waifus may also be minted for 1 CRYSTAL.</p>
+<p>Seasonal Waifus offer a variety of rarities, allowing players to collect and treasure a diverse range of characters. Each rarity has its own farming power multiplier:</p>
 <ul>
 <li><strong>Common:</strong> 1x farming power multiplier.</li>
 <li><strong>Uncommon:</strong> 5x farming power multiplier.</li>
