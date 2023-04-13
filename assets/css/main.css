@@ -2506,7 +2506,7 @@ button:disabled,
 #main > .inner {
   padding: 0 6em 0.1em 6em;
   margin: 0 auto;
-  max-width: 110em;
+  max-width: 100em;
 }
 #main > .inner > section {
   padding: 6em 0 4em 0;
@@ -2590,7 +2590,7 @@ sup {
   text-transform: uppercase;
 }
 .post__inner {
-  max-width: 80%;
+  max-width: 100%;
   margin: 0 auto;
 }
 .post__inner.center {
@@ -3236,6 +3236,8 @@ hr::before,
 }
 #sidebar h2 {
   font-size: 1.3888888889em;
+  width: 100%;
+  padding-left: 2em;
 }
 #sidebar > .inner {
   padding: 2.2222222222em 2.2222222222em 2.4444444444em 2.2222222222em;
@@ -3243,8 +3245,6 @@ hr::before,
   width: 26em;
 }
 #sidebar > .inner > * {
-  border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-  margin: 0 0 3.5em 0;
   padding: 0 0 3.5em 0;
 }
 #sidebar > .inner > * > :last-child {
@@ -3382,14 +3382,14 @@ hr::before,
     width: 7.25em;
   }
   #sidebar .toggle:before {
-    color: #7f888f;
+    color: #daa1ff;
     margin-left: -0.0625em;
     margin-top: -0.25em;
     font-size: 1.1rem;
     z-index: 1;
   }
   #sidebar .toggle:after {
-    background: rgba(222, 225, 226, 0.75);
+    background: rgb(18, 18, 18);
     border-radius: 0.375em;
     content: "";
     height: 3.5em;
