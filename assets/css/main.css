@@ -128,7 +128,7 @@ a:hover strong {
 }
 
 strong, b {
-  color: #daa1ff;
+  color: var(--color);
   font-weight: var(--font-weight-bold);
 }
 
@@ -3121,7 +3121,7 @@ hr::before,
 }
 .msg--highlight {
   background-color: #282828;
-  border-color: #daa1ff;
+  border-color: var(--color);
   margin-left: 2em;
 }
 .msg--info {
@@ -3382,7 +3382,7 @@ hr::before,
     width: 7.25em;
   }
   #sidebar .toggle:before {
-    color: #daa1ff;
+    color: var(--color);
     margin-left: -0.0625em;
     margin-top: -0.25em;
     font-size: 1.1rem;
